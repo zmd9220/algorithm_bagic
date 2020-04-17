@@ -39,5 +39,17 @@
     <ClCompile Include="10866 덱.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="17413 단어 뒤집기 2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17299 오등큰수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10799 쇠막대기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17298 오큰수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
