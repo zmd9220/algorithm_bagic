@@ -66,5 +66,11 @@
     <ClCompile Include="10757 큰수 A+B.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1934 최소공배수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2609 최대공약수와 최소공배수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
