@@ -34,5 +34,35 @@ int main()
 	}
 	cout << ans << '\n';
 }
-
+// 모든 문자가 스택에 들어갔다 나오므로 O(N)
 // 30분정도 걸린듯?
+
+// 백준
+//#include <iostream>
+//#include <string>
+//#include <stack>
+//using namespace std;
+//int main() {
+//	string a;
+//	cin >> a;
+//	int n = a.size();
+//	stack<int> s;
+//	int ans = 0;
+//	for (int i = 0; i<n; i++) {
+//		if (a[i] == '(') {
+//			s.push(i);
+//		}
+//		else {
+//			if (s.top() + 1 == i) {
+//				s.pop();
+//				ans += s.size();
+//			}
+//			else {
+//				s.pop();
+//				ans += 1;
+//			}
+//		}
+//	}
+//	cout << ans << '\n';
+//	return 0;
+//}

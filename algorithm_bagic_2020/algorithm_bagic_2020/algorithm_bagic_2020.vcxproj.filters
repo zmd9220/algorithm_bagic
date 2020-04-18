@@ -13,45 +13,57 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\자료구조 1">
+      <UniqueIdentifier>{d149264b-dde8-4e0b-86f0-ae139f708e47}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="9093 단어 뒤집기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="10828 스택.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="9012 괄호.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1874 스택 수열.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1158 요세푸스 문제.cpp">
+      <Filter>소스 파일\자료구조 1</Filter>
     </ClCompile>
     <ClCompile Include="1406 에디터.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\자료구조 1</Filter>
     </ClCompile>
-    <ClCompile Include="10845 큐.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1874 스택 수열.cpp">
+      <Filter>소스 파일\자료구조 1</Filter>
     </ClCompile>
-    <ClCompile Include="1158 요세푸스 문제.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="9012 괄호.cpp">
+      <Filter>소스 파일\자료구조 1</Filter>
     </ClCompile>
-    <ClCompile Include="10866 덱.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="17413 단어 뒤집기 2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="17299 오등큰수.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="9093 단어 뒤집기.cpp">
+      <Filter>소스 파일\자료구조 1</Filter>
     </ClCompile>
     <ClCompile Include="10799 쇠막대기.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\자료구조 1</Filter>
+    </ClCompile>
+    <ClCompile Include="10828 스택.cpp">
+      <Filter>소스 파일\자료구조 1</Filter>
+    </ClCompile>
+    <ClCompile Include="10845 큐.cpp">
+      <Filter>소스 파일\자료구조 1</Filter>
+    </ClCompile>
+    <ClCompile Include="10866 덱.cpp">
+      <Filter>소스 파일\자료구조 1</Filter>
     </ClCompile>
     <ClCompile Include="17298 오큰수.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\자료구조 1</Filter>
+    </ClCompile>
+    <ClCompile Include="17299 오등큰수.cpp">
+      <Filter>소스 파일\자료구조 1</Filter>
+    </ClCompile>
+    <ClCompile Include="17413 단어 뒤집기 2.cpp">
+      <Filter>소스 파일\자료구조 1</Filter>
     </ClCompile>
     <ClCompile Include="소스.cpp">
+      <Filter>소스 파일\자료구조 1</Filter>
+    </ClCompile>
+    <ClCompile Include="10430 나머지.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10827 a^b.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10757 큰수 A+B.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
