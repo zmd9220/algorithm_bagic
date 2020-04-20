@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\자료구조 1">
       <UniqueIdentifier>{d149264b-dde8-4e0b-86f0-ae139f708e47}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\if문">
+      <UniqueIdentifier>{4006e080-8d47-4dfd-9c91-5637210cd13c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1158 요세푸스 문제.cpp">
@@ -95,6 +98,21 @@
     </ClCompile>
     <ClCompile Include="17087 숨바꼭질 6.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1373 2진수 8진수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9498 시험 성적.cpp">
+      <Filter>소스 파일\if문</Filter>
+    </ClCompile>
+    <ClCompile Include="2753 윤년.cpp">
+      <Filter>소스 파일\if문</Filter>
+    </ClCompile>
+    <ClCompile Include="14681 사분면 고르기.cpp">
+      <Filter>소스 파일\if문</Filter>
+    </ClCompile>
+    <ClCompile Include="2884 알람 시계.cpp">
+      <Filter>소스 파일\if문</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
