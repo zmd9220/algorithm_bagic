@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\if문">
       <UniqueIdentifier>{4006e080-8d47-4dfd-9c91-5637210cd13c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\for문">
+      <UniqueIdentifier>{db740b85-d89c-4fa8-8dc5-5d1ab448ce43}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1158 요세푸스 문제.cpp">
@@ -113,6 +116,15 @@
     </ClCompile>
     <ClCompile Include="2884 알람 시계.cpp">
       <Filter>소스 파일\if문</Filter>
+    </ClCompile>
+    <ClCompile Include="2739 구구단.cpp">
+      <Filter>소스 파일\for문</Filter>
+    </ClCompile>
+    <ClCompile Include="8393 합.cpp">
+      <Filter>소스 파일\for문</Filter>
+    </ClCompile>
+    <ClCompile Include="15552 빠른 A+B.cpp">
+      <Filter>소스 파일\for문</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
