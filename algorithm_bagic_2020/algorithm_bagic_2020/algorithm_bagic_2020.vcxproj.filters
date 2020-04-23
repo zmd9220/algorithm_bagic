@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\입출력과 사칙연산">
       <UniqueIdentifier>{8f85ab1d-026e-43c6-920f-6b4fc6b6102f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\실습1">
+      <UniqueIdentifier>{0875a71f-5942-4612-a25d-a2e943f24899}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1158 요세푸스 문제.cpp">
@@ -152,6 +155,18 @@
     </ClCompile>
     <ClCompile Include="2588 곱셈.cpp">
       <Filter>소스 파일\입출력과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="10039 평균 점수.cpp">
+      <Filter>소스 파일\실습1</Filter>
+    </ClCompile>
+    <ClCompile Include="5543 상덕 버거.cpp">
+      <Filter>소스 파일\실습1</Filter>
+    </ClCompile>
+    <ClCompile Include="10817 세 수.cpp">
+      <Filter>소스 파일\실습1</Filter>
+    </ClCompile>
+    <ClCompile Include="2523 별찍기 -13.cpp">
+      <Filter>소스 파일\실습1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
