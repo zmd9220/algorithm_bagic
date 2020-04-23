@@ -168,5 +168,11 @@
     <ClCompile Include="2523 별찍기 -13.cpp">
       <Filter>소스 파일\실습1</Filter>
     </ClCompile>
+    <ClCompile Include="2446 별 찍기-9.cpp">
+      <Filter>소스 파일\실습1</Filter>
+    </ClCompile>
+    <ClCompile Include="10996 별 찍기 - 21.cpp">
+      <Filter>소스 파일\실습1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
