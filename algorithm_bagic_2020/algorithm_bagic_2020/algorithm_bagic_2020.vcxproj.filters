@@ -28,8 +28,14 @@
     <Filter Include="소스 파일\입출력과 사칙연산">
       <UniqueIdentifier>{8f85ab1d-026e-43c6-920f-6b4fc6b6102f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\실습1">
+    <Filter Include="소스 파일\수학 1">
+      <UniqueIdentifier>{7a524ac7-1935-498e-a1af-7d76fd5bb4f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습 1">
       <UniqueIdentifier>{0875a71f-5942-4612-a25d-a2e943f24899}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1차원 배열">
+      <UniqueIdentifier>{5077a9cc-ad9d-44f3-a06a-3ea9e0689bb1}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -71,48 +77,6 @@
     </ClCompile>
     <ClCompile Include="소스.cpp">
       <Filter>소스 파일\자료구조 1</Filter>
-    </ClCompile>
-    <ClCompile Include="10430 나머지.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="10827 a^b.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="10757 큰수 A+B.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1934 최소공배수.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2609 최대공약수와 최소공배수.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1978 소수 찾기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1929 소수 구하기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="6588 골드바흐의 추측.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="10872번 팩토리얼.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1676 팩토리얼 0의 개수.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2004 조합 0의 개수.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="9613 GCD 합.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="17087 숨바꼭질 6.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1373 2진수 8진수.cpp">
-      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="9498 시험 성적.cpp">
       <Filter>소스 파일\if문</Filter>
@@ -157,24 +121,72 @@
       <Filter>소스 파일\입출력과 사칙연산</Filter>
     </ClCompile>
     <ClCompile Include="10039 평균 점수.cpp">
-      <Filter>소스 파일\실습1</Filter>
+      <Filter>소스 파일\실습 1</Filter>
     </ClCompile>
     <ClCompile Include="5543 상덕 버거.cpp">
-      <Filter>소스 파일\실습1</Filter>
+      <Filter>소스 파일\실습 1</Filter>
     </ClCompile>
     <ClCompile Include="10817 세 수.cpp">
-      <Filter>소스 파일\실습1</Filter>
+      <Filter>소스 파일\실습 1</Filter>
     </ClCompile>
     <ClCompile Include="2523 별찍기 -13.cpp">
-      <Filter>소스 파일\실습1</Filter>
+      <Filter>소스 파일\실습 1</Filter>
     </ClCompile>
     <ClCompile Include="2446 별 찍기-9.cpp">
-      <Filter>소스 파일\실습1</Filter>
+      <Filter>소스 파일\실습 1</Filter>
     </ClCompile>
     <ClCompile Include="10996 별 찍기 - 21.cpp">
-      <Filter>소스 파일\실습1</Filter>
+      <Filter>소스 파일\실습 1</Filter>
+    </ClCompile>
+    <ClCompile Include="1373 2진수 8진수.cpp">
+      <Filter>소스 파일\수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="1676 팩토리얼 0의 개수.cpp">
+      <Filter>소스 파일\수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="1929 소수 구하기.cpp">
+      <Filter>소스 파일\수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="1934 최소공배수.cpp">
+      <Filter>소스 파일\수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="1978 소수 찾기.cpp">
+      <Filter>소스 파일\수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="2004 조합 0의 개수.cpp">
+      <Filter>소스 파일\수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="2609 최대공약수와 최소공배수.cpp">
+      <Filter>소스 파일\수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="6588 골드바흐의 추측.cpp">
+      <Filter>소스 파일\수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="9613 GCD 합.cpp">
+      <Filter>소스 파일\수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="10430 나머지.cpp">
+      <Filter>소스 파일\수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="10757 큰수 A+B.cpp">
+      <Filter>소스 파일\수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="10827 a^b.cpp">
+      <Filter>소스 파일\수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="10872번 팩토리얼.cpp">
+      <Filter>소스 파일\수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="17087 숨바꼭질 6.cpp">
+      <Filter>소스 파일\수학 1</Filter>
     </ClCompile>
     <ClCompile Include="17103 골드바흐 파티션.cpp">
+      <Filter>소스 파일\수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="10818 최소, 최대.cpp">
+      <Filter>소스 파일\1차원 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 공부.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
