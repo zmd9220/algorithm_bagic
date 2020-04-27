@@ -195,5 +195,14 @@
     <ClCompile Include="2577 숫자의 개수.cpp">
       <Filter>소스 파일\1차원 배열</Filter>
     </ClCompile>
+    <ClCompile Include="스트링 변환.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3052 나머지.cpp">
+      <Filter>소스 파일\1차원 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="1546 평균.cpp">
+      <Filter>소스 파일\1차원 배열</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
