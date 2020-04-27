@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\1차원 배열">
       <UniqueIdentifier>{5077a9cc-ad9d-44f3-a06a-3ea9e0689bb1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\함수">
+      <UniqueIdentifier>{f8ae08f8-3d69-4cc9-a2c2-1d4dfced586a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1158 요세푸스 문제.cpp">
@@ -202,6 +205,12 @@
       <Filter>소스 파일\1차원 배열</Filter>
     </ClCompile>
     <ClCompile Include="1546 평균.cpp">
+      <Filter>소스 파일\1차원 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="8958 OX퀴즈.cpp">
+      <Filter>소스 파일\1차원 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="4344 평균은 넘겠지.cpp">
       <Filter>소스 파일\1차원 배열</Filter>
     </ClCompile>
   </ItemGroup>
