@@ -30,10 +30,10 @@ int main()
 			if (average < arr[i])
 				count++;
 		}
-		cout << fixed;
-		cout.precision(3);
+		cout << fixed; // 소수점만 몇자리까지 나오게 하려면 먼저 선언 - 이거 안하면 정수부분+소수부분합쳐서 자릿수가 결정됨(9자리라고 해도 정수5자리나오면 소수는 4자리 이런식으로)
+		cout.precision(3); // 몇자리까지 표현할건지 적용
 		float ans = count / N * 100;
 		cout << ans << '%' << '\n';
-		cout.unsetf(ios::fixed);
+		//cout.unsetf(ios::fixed); // 소수점 해제하는 방법
 	}
 }

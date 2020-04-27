@@ -26,6 +26,7 @@ int nums(int a)
 }
 
 //http://blog.naver.com/PostView.nhn?blogId=occidere&logNo=220790000403 참조
+// 처음에는 나도 0~1000까지 모두 도는걸 생각했지만 시간낭비같아서 안했는데...
 int hans(int a)
 {
 	int count = 0;

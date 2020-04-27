@@ -16,29 +16,32 @@
     <Filter Include="소스 파일\자료구조 1">
       <UniqueIdentifier>{d149264b-dde8-4e0b-86f0-ae139f708e47}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\if문">
-      <UniqueIdentifier>{4006e080-8d47-4dfd-9c91-5637210cd13c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\for문">
-      <UniqueIdentifier>{db740b85-d89c-4fa8-8dc5-5d1ab448ce43}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\while문">
-      <UniqueIdentifier>{3b3e75aa-6965-46f7-951d-01dde0dfba95}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\입출력과 사칙연산">
-      <UniqueIdentifier>{8f85ab1d-026e-43c6-920f-6b4fc6b6102f}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\수학 1">
       <UniqueIdentifier>{7a524ac7-1935-498e-a1af-7d76fd5bb4f0}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\실습 1">
       <UniqueIdentifier>{0875a71f-5942-4612-a25d-a2e943f24899}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\1차원 배열">
+    <Filter Include="소스 파일\단계별">
+      <UniqueIdentifier>{c87b6e51-5825-4ee7-a458-6e6f4fc565a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\단계별\함수">
+      <UniqueIdentifier>{f8ae08f8-3d69-4cc9-a2c2-1d4dfced586a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\단계별\while문">
+      <UniqueIdentifier>{3b3e75aa-6965-46f7-951d-01dde0dfba95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\단계별\입출력과 사칙연산">
+      <UniqueIdentifier>{8f85ab1d-026e-43c6-920f-6b4fc6b6102f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\단계별\if문">
+      <UniqueIdentifier>{4006e080-8d47-4dfd-9c91-5637210cd13c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\단계별\1차원 배열">
       <UniqueIdentifier>{5077a9cc-ad9d-44f3-a06a-3ea9e0689bb1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\함수">
-      <UniqueIdentifier>{f8ae08f8-3d69-4cc9-a2c2-1d4dfced586a}</UniqueIdentifier>
+    <Filter Include="소스 파일\단계별\for문">
+      <UniqueIdentifier>{db740b85-d89c-4fa8-8dc5-5d1ab448ce43}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -82,46 +85,46 @@
       <Filter>소스 파일\자료구조 1</Filter>
     </ClCompile>
     <ClCompile Include="9498 시험 성적.cpp">
-      <Filter>소스 파일\if문</Filter>
+      <Filter>소스 파일\단계별\if문</Filter>
     </ClCompile>
     <ClCompile Include="2753 윤년.cpp">
-      <Filter>소스 파일\if문</Filter>
+      <Filter>소스 파일\단계별\if문</Filter>
     </ClCompile>
     <ClCompile Include="14681 사분면 고르기.cpp">
-      <Filter>소스 파일\if문</Filter>
+      <Filter>소스 파일\단계별\if문</Filter>
     </ClCompile>
     <ClCompile Include="2884 알람 시계.cpp">
-      <Filter>소스 파일\if문</Filter>
+      <Filter>소스 파일\단계별\if문</Filter>
     </ClCompile>
     <ClCompile Include="2739 구구단.cpp">
-      <Filter>소스 파일\for문</Filter>
+      <Filter>소스 파일\단계별\for문</Filter>
     </ClCompile>
     <ClCompile Include="8393 합.cpp">
-      <Filter>소스 파일\for문</Filter>
+      <Filter>소스 파일\단계별\for문</Filter>
     </ClCompile>
     <ClCompile Include="15552 빠른 A+B.cpp">
-      <Filter>소스 파일\for문</Filter>
+      <Filter>소스 파일\단계별\for문</Filter>
     </ClCompile>
     <ClCompile Include="2741 N찍기.cpp">
-      <Filter>소스 파일\for문</Filter>
+      <Filter>소스 파일\단계별\for문</Filter>
     </ClCompile>
     <ClCompile Include="2742 기찍 N.cpp">
-      <Filter>소스 파일\for문</Filter>
+      <Filter>소스 파일\단계별\for문</Filter>
     </ClCompile>
     <ClCompile Include="10871 X보다 작은 수.cpp">
-      <Filter>소스 파일\for문</Filter>
+      <Filter>소스 파일\단계별\for문</Filter>
     </ClCompile>
     <ClCompile Include="10952 A+B - 5.cpp">
-      <Filter>소스 파일\while문</Filter>
+      <Filter>소스 파일\단계별\while문</Filter>
     </ClCompile>
     <ClCompile Include="10951 A+B - 4.cpp">
-      <Filter>소스 파일\while문</Filter>
+      <Filter>소스 파일\단계별\while문</Filter>
     </ClCompile>
     <ClCompile Include="1110 더하기 사이클 .cpp">
-      <Filter>소스 파일\while문</Filter>
+      <Filter>소스 파일\단계별\while문</Filter>
     </ClCompile>
     <ClCompile Include="2588 곱셈.cpp">
-      <Filter>소스 파일\입출력과 사칙연산</Filter>
+      <Filter>소스 파일\단계별\입출력과 사칙연산</Filter>
     </ClCompile>
     <ClCompile Include="10039 평균 점수.cpp">
       <Filter>소스 파일\실습 1</Filter>
@@ -187,43 +190,43 @@
       <Filter>소스 파일\수학 1</Filter>
     </ClCompile>
     <ClCompile Include="10818 최소, 최대.cpp">
-      <Filter>소스 파일\1차원 배열</Filter>
+      <Filter>소스 파일\단계별\1차원 배열</Filter>
     </ClCompile>
     <ClCompile Include="포인터 공부.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="2562 최댓값.cpp">
-      <Filter>소스 파일\1차원 배열</Filter>
+      <Filter>소스 파일\단계별\1차원 배열</Filter>
     </ClCompile>
     <ClCompile Include="2577 숫자의 개수.cpp">
-      <Filter>소스 파일\1차원 배열</Filter>
+      <Filter>소스 파일\단계별\1차원 배열</Filter>
     </ClCompile>
     <ClCompile Include="스트링 변환.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="3052 나머지.cpp">
-      <Filter>소스 파일\1차원 배열</Filter>
+      <Filter>소스 파일\단계별\1차원 배열</Filter>
     </ClCompile>
     <ClCompile Include="1546 평균.cpp">
-      <Filter>소스 파일\1차원 배열</Filter>
+      <Filter>소스 파일\단계별\1차원 배열</Filter>
     </ClCompile>
     <ClCompile Include="8958 OX퀴즈.cpp">
-      <Filter>소스 파일\1차원 배열</Filter>
+      <Filter>소스 파일\단계별\1차원 배열</Filter>
     </ClCompile>
     <ClCompile Include="4344 평균은 넘겠지.cpp">
-      <Filter>소스 파일\1차원 배열</Filter>
+      <Filter>소스 파일\단계별\1차원 배열</Filter>
     </ClCompile>
     <ClCompile Include="15596 정수 N개의 합.cpp">
-      <Filter>소스 파일\함수</Filter>
+      <Filter>소스 파일\단계별\함수</Filter>
     </ClCompile>
     <ClCompile Include="함수 선언 참조.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1065 한수.cpp">
-      <Filter>소스 파일\함수</Filter>
+      <Filter>소스 파일\단계별\함수</Filter>
     </ClCompile>
     <ClCompile Include="4673 셀프 넘버.cpp">
-      <Filter>소스 파일\함수</Filter>
+      <Filter>소스 파일\단계별\함수</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
