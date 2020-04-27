@@ -34,5 +34,6 @@ int main()
 		cout.precision(3);
 		float ans = count / N * 100;
 		cout << ans << '%' << '\n';
+		cout.unsetf(ios::fixed);
 	}
 }

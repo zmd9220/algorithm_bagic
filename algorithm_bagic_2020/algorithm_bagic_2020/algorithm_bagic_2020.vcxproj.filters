@@ -213,5 +213,17 @@
     <ClCompile Include="4344 평균은 넘겠지.cpp">
       <Filter>소스 파일\1차원 배열</Filter>
     </ClCompile>
+    <ClCompile Include="15596 정수 N개의 합.cpp">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="함수 선언 참조.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1065 한수.cpp">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="4673 셀프 넘버.cpp">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
