@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\단계별\for문">
       <UniqueIdentifier>{db740b85-d89c-4fa8-8dc5-5d1ab448ce43}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\dp">
+      <UniqueIdentifier>{6f27bfd2-4f4e-4a5c-a206-242f3fa6235b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1158 요세푸스 문제.cpp">
@@ -227,6 +230,9 @@
     </ClCompile>
     <ClCompile Include="4673 셀프 넘버.cpp">
       <Filter>소스 파일\단계별\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="1463 1로 만들기.cpp">
+      <Filter>소스 파일\dp</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
