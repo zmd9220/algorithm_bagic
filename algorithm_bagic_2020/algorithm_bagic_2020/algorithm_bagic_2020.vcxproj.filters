@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\dp">
       <UniqueIdentifier>{6f27bfd2-4f4e-4a5c-a206-242f3fa6235b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\단계별\문자열">
+      <UniqueIdentifier>{55acd443-e8d8-4557-9ef2-201de4092920}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1158 요세푸스 문제.cpp">
@@ -236,6 +239,9 @@
     </ClCompile>
     <ClCompile Include="1003 피보나치 함수.cpp">
       <Filter>소스 파일\dp</Filter>
+    </ClCompile>
+    <ClCompile Include="10809 알파벳 찾기.cpp">
+      <Filter>소스 파일\단계별\문자열</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
