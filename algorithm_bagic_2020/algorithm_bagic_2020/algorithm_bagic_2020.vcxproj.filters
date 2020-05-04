@@ -243,5 +243,8 @@
     <ClCompile Include="10809 알파벳 찾기.cpp">
       <Filter>소스 파일\단계별\문자열</Filter>
     </ClCompile>
+    <ClCompile Include="11726 2xn타일링.cpp">
+      <Filter>소스 파일\dp</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
