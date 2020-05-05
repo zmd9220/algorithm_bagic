@@ -206,6 +206,7 @@
     <ClCompile Include="11726 2xn타일링.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="11727 2xn타일링 2.cpp" />
     <ClCompile Include="1373 2진수 8진수.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
