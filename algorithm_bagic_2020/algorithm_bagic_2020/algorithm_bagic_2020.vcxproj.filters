@@ -258,5 +258,8 @@
     <ClCompile Include="16194 카드 구매하기2.cpp">
       <Filter>소스 파일\dp</Filter>
     </ClCompile>
+    <ClCompile Include="15990 1,2,3 더하기 5.cpp">
+      <Filter>소스 파일\dp</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
