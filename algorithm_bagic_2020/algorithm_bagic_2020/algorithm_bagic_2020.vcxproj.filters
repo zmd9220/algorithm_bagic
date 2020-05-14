@@ -267,5 +267,8 @@
     <ClCompile Include="2193 이친수.cpp">
       <Filter>소스 파일\dp</Filter>
     </ClCompile>
+    <ClCompile Include="11053 가장 긴 증가하는 부분 수열.cpp">
+      <Filter>소스 파일\dp</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
