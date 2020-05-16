@@ -49,6 +49,9 @@
     <Filter Include="소스 파일\단계별\문자열">
       <UniqueIdentifier>{55acd443-e8d8-4557-9ef2-201de4092920}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\dp\연습">
+      <UniqueIdentifier>{6cce2fa8-7a6f-44a5-8b93-42637ca8a601}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1158 요세푸스 문제.cpp">
@@ -281,6 +284,9 @@
     </ClCompile>
     <ClCompile Include="2225 합분해.cpp">
       <Filter>소스 파일\dp</Filter>
+    </ClCompile>
+    <ClCompile Include="15988 1, 2, 3 더하기 3.cpp">
+      <Filter>소스 파일\dp\연습</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
