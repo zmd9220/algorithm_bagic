@@ -291,5 +291,8 @@
     <ClCompile Include="1149 RGB 거리.cpp">
       <Filter>소스 파일\dp\연습</Filter>
     </ClCompile>
+    <ClCompile Include="1309 동물원.cpp">
+      <Filter>소스 파일\dp\연습</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
