@@ -300,5 +300,8 @@
     <ClCompile Include="9465 스티커.cpp">
       <Filter>소스 파일\dp\연습</Filter>
     </ClCompile>
+    <ClCompile Include="2156 포도주 시식.cpp">
+      <Filter>소스 파일\dp\연습</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
