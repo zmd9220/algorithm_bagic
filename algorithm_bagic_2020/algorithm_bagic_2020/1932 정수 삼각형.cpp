@@ -4,7 +4,14 @@ using namespace std;
 
 int d[501][501];
 int arr[501][501];
+// td 함수
 void td(int n)
+{
+	return;
+}
+
+// 재귀 함수
+void recu(int n)
 {
 	return;
 }
