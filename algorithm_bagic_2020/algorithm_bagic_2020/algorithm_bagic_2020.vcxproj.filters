@@ -309,5 +309,8 @@
     <ClCompile Include="1932 정수 삼각형.cpp">
       <Filter>소스 파일\dp\연습</Filter>
     </ClCompile>
+    <ClCompile Include="11722번 - 가장 긴 감소하는 부분 수열.cpp">
+      <Filter>소스 파일\dp\연습</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
