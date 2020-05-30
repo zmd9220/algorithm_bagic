@@ -312,5 +312,8 @@
     <ClCompile Include="11722번 - 가장 긴 감소하는 부분 수열.cpp">
       <Filter>소스 파일\dp\연습</Filter>
     </ClCompile>
+    <ClCompile Include="13398 연속합 2.cpp">
+      <Filter>소스 파일\dp\연습</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
