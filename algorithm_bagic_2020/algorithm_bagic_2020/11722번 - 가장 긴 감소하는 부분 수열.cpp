@@ -1,3 +1,56 @@
+#include <iostream>
+#include <algorithm>
+#include <vector>
+using namespace std;
+
+int main()
+{
+	int n;
+	cin >> n;
+	vector<int> a(n);
+	for (int i = 0; i < n; i++)
+	{
+		cin >> a[i];
+	}
+	reverse(a.begin(), a.end());
+	vector<int> d(n);
+
+	
+	for (int i = 0; i < n; i++)
+	{
+		d[i] = 1;
+		for (int j = 0; j < i; j++)
+		{
+			if (a[i] > a[j] && d[i] < d[j] + 1)
+				d[i] = d[j] + 1;
+		}
+	}
+
+	int ans = *max_element(d.begin(), d.end());
+	//int ans2 = *max(d.begin(), d.end());
+
+	cout << ans << '\n';
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //#include <cstdio>
 //int a[1001];
 //int d[1001];
