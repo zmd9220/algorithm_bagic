@@ -7,10 +7,10 @@ int main()
 {
 	int n;
 	cin >> n;
-	vector<int> a(n);
-	vector<int> d(n);
-	vector<int> d2(n);
-	int ans = 0;
+	vector<int> a(n); // 기존 A 수열
+	vector<int> d(n); // d = LIS
+	vector<int> d2(n); // d2 = LDS
+	int ans = 0; // 가장 긴 바이토닉 수열(B)
 	for (int i = 0; i < n; i++)
 	{
 		cin >> a[i];
@@ -18,6 +18,7 @@ int main()
 		d2[i] = 1;
 	}
 	
+	// LIS 구하는 과정
 	for (int i = 1; i < n; i++)
 	{
 		for (int j = 0; j < i; j++)
@@ -26,8 +27,9 @@ int main()
 				d[i] = d[j] + 1;
 		}
 	}
-	reverse(a.begin(), a.end());
 
+	// LDS 구하는 과정
+	reverse(a.begin(), a.end());
 	for (int i = 1; i < n; i++)
 	{
 		for (int j = 0; j < i; j++)
@@ -37,6 +39,8 @@ int main()
 		}
 	}
 	reverse(d2.begin(), d2.end());
+
+	// B 구하는 과정(정답)
 	for (int i = 0; i < n; i++)
 	{
 		if(ans < d[i] + d2[i] - 1)
