@@ -318,5 +318,8 @@
     <ClCompile Include="11054 가장 긴 바이토닉 부분 수열.cpp">
       <Filter>소스 파일\dp\연습</Filter>
     </ClCompile>
+    <ClCompile Include="2133 타일 채우기.cpp">
+      <Filter>소스 파일\dp\연습</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
