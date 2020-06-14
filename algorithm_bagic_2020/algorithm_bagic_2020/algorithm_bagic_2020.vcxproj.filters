@@ -55,6 +55,9 @@
     <Filter Include="소스 파일\브루트 포스">
       <UniqueIdentifier>{e2cef069-b472-4baa-a36a-f87d2c1cc678}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\dp\단계별">
+      <UniqueIdentifier>{fb2dd3be-8cb8-48c0-afa3-c463bb8fb780}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1158 요세푸스 문제.cpp">
@@ -331,7 +334,10 @@
       <Filter>소스 파일\브루트 포스</Filter>
     </ClCompile>
     <ClCompile Include="2748 피보나치 수 2.cpp">
-      <Filter>소스 파일\dp</Filter>
+      <Filter>소스 파일\dp\단계별</Filter>
+    </ClCompile>
+    <ClCompile Include="1904 01타일.cpp">
+      <Filter>소스 파일\dp\단계별</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
