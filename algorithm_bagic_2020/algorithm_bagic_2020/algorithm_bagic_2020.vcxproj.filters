@@ -345,5 +345,8 @@
     <ClCompile Include="2579 계단 오르기.cpp">
       <Filter>소스 파일\dp\단계별</Filter>
     </ClCompile>
+    <ClCompile Include="2565 전깃줄.cpp">
+      <Filter>소스 파일\dp\단계별</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
