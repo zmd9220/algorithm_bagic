@@ -348,5 +348,8 @@
     <ClCompile Include="2565 전깃줄.cpp">
       <Filter>소스 파일\dp\단계별</Filter>
     </ClCompile>
+    <ClCompile Include="9251 LCS.cpp">
+      <Filter>소스 파일\dp\단계별</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

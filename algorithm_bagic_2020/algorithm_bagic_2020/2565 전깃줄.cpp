@@ -53,7 +53,7 @@ int main() {
 
 	scanf("%d", &n);
 	vector < vector <int> > v(n);
-	int lis[n];
+	int lis[501];
 	for (i = 0; i < n; i++) {
 		v[i] = vector<int>(2);
 		scanf("%d %d", &v[i][0], &v[i][1]);
